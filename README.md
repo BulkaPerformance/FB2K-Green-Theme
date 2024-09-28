@@ -1,2 +1,24 @@
 # FB2K-Green-Theme
 Green retro theme for foobar2000
+
+ANALOG VU METER
+
+WITH TUTORIAL HOW TO INSTALL SKIN
+https://audio-file.org/2015/11/07/foobar-default-user-interface-installing-analog-vu-meters/
+
+SKIN FOR VU METER
+https://drive.google.com/file/d/1y0PvzYsewXYz1gMZ-vwh_SB5NtTDA7ws/view
+
+ProjectM Visualiser
+https://www.foobar2000.org/components/view/foo_vis_projectM
+
+Musical Spectrum
+https://hydrogenaud.io/index.php?action=dlattach;topic=97404.0;attach=7189
+
+Stock
+oscillocope , spectogram
+
+
+
+
+
